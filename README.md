@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Rakshit Patel
 - 👀 I’m interested in Data Analytics and Data Science
-- 🌱 I’m currently learning Machine Learning
+- 🌱 I’m currently learning Machine Learning and Data Analytics.
+-
 
 
 <!---
