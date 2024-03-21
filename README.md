@@ -1,35 +1,62 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Vivek Patel</h1>
+<h3 align="center">A passionate Software Engineer</h3>
+	
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vivek9patel&color=blueviolet&style=flat">
+</p>
 
-## I am Software developer, and I like to contribute to the open source.
+- 🌱 I’m currently learning about **Product Design**
 
-- I work on various open-source projects and I primarily work in C/C++, Python and JavaScript.
-- Software developer at Ishitva Robotics Systems, Ahmedabad.
+- 👨‍💻 All of my projects are available [here](https://rakshit-patel.netlify.app/)
 
-### Languages:
+- 💬 Ask me about **Javascript** & **CSS**
 
-[<img align="left" alt="C++" height="35em" src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" />](https://en.wikipedia.org/wiki/C%2B%2B)
-[<img align="left" alt="C" height="35em" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" />](https://en.wikipedia.org/wiki/C_(programming_language))
-[<img align="left" alt="Python" height="35em" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />](https://www.python.org/)
-[<img align="left" alt="JavaScript" height="35em" src="https://1000logos.net/wp-content/uploads/2020/09/JavaScript-Logo.png" />](https://www.java.com/en/download/)
+- 📫 How to reach me **vivek.p9737@gmail.com**
 
-<br/><br/>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HetDaftary&theme=dark" alt="HetDaftary" />&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=HetDaftary&count_private=true&theme=dark" alt="HetDaftary" /> 
+	
+### 🛠 &nbsp;Languages and Tools
 
-<br/><br/><br/>
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](http://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+<br>
+![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=for-the-badge&logo=css3)
+![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=for-the-badge&logo=sass&logoColor=ffffff)
+![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=ffffff)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Tailwind Css](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<br>
+![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
+![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=for-the-badge&logo=Node.js&logoColor=ffffff)
+![Npm](https://img.shields.io/badge/-npm-CB3837?style=for-the-badge&logo=npm)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=ffffff)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+<br>
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff)
+![Linux](http://img.shields.io/badge/-Linux-0078D6?style=for-the-badge&logo=linux&logoColor=ffffff)
+<br/>
 
-### Tools: 
+### ⚙️ &nbsp;GitHub Analytics
 
-[<img align="left" alt="Visual Studio Code" height = "35em" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](https://code.visualstudio.com/)
-[<img align="left" alt="Git" height="35em" src="https://git-scm.com/images/logo@2x.png" />](https://git-scm.com/downloads)
-[<img align="left" alt="Terminal" height="35em" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gnubash.svg" />](https://en.wikipedia.org/wiki/Bash_(Unix_shell))
-[<img align="left" alt="arduino" height = "35em" src="https://cdn.arduino.cc/header-footer/prod/assets/headerLogo-arduino.svg" />](https://www.arduino.cc/)
+<p align="center">
+<a href="https://github.com/vivek9patel">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rakshit17p&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rakshit17p&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
-<br/><br/>
+### 🤝🏻 &nbsp;Connect with Me
 
-### Connect with me:
-[<img align="left" alt="HetDaftary | LinkedIn" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/rakshit17p/)
-[<img align="left" alt="HetDaftary | Instagram" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/rakshit1701/)
-[<img align="left" alt="HetDaftary | Twitter" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/rakshit17p)
-
-<br/><br/>
+<p>
+<!-- <a href="https://www.vivek9patel.com"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a> -->
+<a href="https://linkedin.com/in/rakshit17p"><img src="https://img.shields.io/badge/-rakshit17p-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:rakshit17p@gmail.com"><img src="https://img.shields.io/badge/-rakshit17p@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://twitter.com/rakshit17p"><img src="https://img.shields.io/badge/-@rakshit17p-1877F2?style=flat&logo=Twitter&logoColor=white"/></a>
+</p>
+<!-- <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vivek9patel&" alt="vivek9patel" /></p> -->
