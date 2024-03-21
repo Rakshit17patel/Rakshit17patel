@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Javascript** & **CSS**
 
-- 📫 How to reach me **vivek.p9737@gmail.com**
+- 📫 How to reach me **rakshit17p@gmail.com**
 
 
 	
