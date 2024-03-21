@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vivek Patel</h1>
+<h1 align="center">Hi 👋, I'm Rakshit Patel</h1>
 <h3 align="center">A passionate Software Engineer</h3>
 	
 <p align="center">
@@ -46,8 +46,8 @@
 
 <p align="center">
 <a href="https://github.com/vivek9patel">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rakshit17p&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rakshit17p&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Rakshit17patel&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Rakshit17patel&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
