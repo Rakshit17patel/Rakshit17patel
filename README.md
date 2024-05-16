@@ -7,7 +7,6 @@
 
 - 🌱 I’m currently learning about **Product Design**
 
-- 👨‍💻 All of my projects are available [here](https://rakshit-patel.netlify.app/)
 
 - 💬 Ask me about **Javascript** & **CSS**
 
