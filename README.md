@@ -7,9 +7,6 @@
 
 - 🌱 I’m currently learning about **Product Design**
 
-
-- 💬 Ask me about **Javascript** & **CSS**
-
 - 📫 How to reach me **rakshit17p@gmail.com**
 
 
