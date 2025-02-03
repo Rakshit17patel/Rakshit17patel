@@ -121,7 +121,7 @@ I'm a **Software Engineer** with a knack for building efficient, scalable, and i
 ### 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rakshit17patel&show_icons=true&theme=tokyonight" alt="Rakshit's GitHub Stats"/>
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=Rakshit17patel&show_icons=true&theme=tokyonight" alt="Rakshit's GitHub Stats"/> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakshit17patel&hide=jupyter%20Notebook&layout=compact&theme=tokyonight" alt="Rakshit's Top Languages"/>
 
 
